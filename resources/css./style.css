@@ -1,11 +1,9 @@
+/* General features*/
+
 body{
     font-family: Verdana, sans-serif;
     font-size:16px;
     background-color: black;
-}
-header{
-    color: white;
-    text-align: center;
 }
 h1{
     font-size: 3.125rem;
@@ -16,10 +14,19 @@ a{
     color:aquamarine;
     font-size: 1rem;
 }
+
+/*HEAD*/
+header{
+    color: white;
+    text-align: center;
+}
+/*VIDEO*/
 .video{
     text-align: center;
     margin-top: 30px;
 }
+/*Travel Guide*/
+
 .travel-guide{
     color: white;
     text-align: center;
@@ -39,6 +46,7 @@ a{
     margin: 0 auto;
     padding:10px;
 }
+/*Foot*/
 footer{
     color:gray;
     text-align: right;
